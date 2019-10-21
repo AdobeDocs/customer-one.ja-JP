@@ -4,7 +4,7 @@ description: 新しいアドビカスタマーサポート体験が提供され�
 seo-title: 新しいアドビカスタマーサポート体験が提供される予定 — AEMの導入担当者
 seo-description: 新しいアドビカスタマーサポート体験が提供される予定 — AEMの導入担当者
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 17aec30cc46915788f30b9f2042ccb8a6ce6fdbf
 
 ---
 
@@ -27,7 +27,9 @@ Adobe Experience ManagerおよびAdobe Campaignのお客様向けのサポート
 * とのチャット会話を都合よく開始する [!DNL Adobe Customer Support]
 * ポータルへのサポートユーザーアクセスを許可する
 
-2019年11月4日までに [](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) [!DNL System Admin Confirmation Form]に記入して送信し、組織のAdobe Experience Manager/Adobe Campaign製品のシステム管理者としてこのロールを承認する（または別の連絡先情報を提供する）ことを確認してください。 このフォームに記入すると、適切な資格情報が組織の指定されたシステム管理者に割り当てられ、今後の変更に備えるために、詳細を提供できるようになります。
+>[!NOTE]
+>2019年11月4日までに **[!DNL System Admin Confirmation Form]に記入して送信し、組織のAdobe Experience Manager製品のシステム管理者としてこのロールに同意する（または別の連絡先情報を提供する）ことを確認してください[](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)**。
+>このフォームに記入すると、適切な資格情報が組織の指定されたシステム管理者に割り当てられ、今後の変更に備えるために、詳細を提供できるようになります。
 
 [!DNLシステム管理者確認フォーム]を受け取る [と、確認の電子メールが送信されます](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)。
 
