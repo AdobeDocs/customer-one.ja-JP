@@ -1,0 +1,40 @@
+---
+title: AEM — 新しいサポート体験の提供
+seo-title: Adobe Experience Manager — 新しいサポート体験の提供開始
+description: Adobe Experience Manager — 新しいサポート体験の提供開始
+seo-description: Adobe Experience Manager — 新しいサポート体験の提供開始
+translation-type: tm+mt
+source-git-commit: ad33e1f36bfb8a697fa34a3cc01c55799eb58e8f
+
+---
+
+
+# Adobe Experience Manager — 新しいサポート体験の提供開始
+
+**2019年10月22日**
+
+Adobe Experience Managerのお客様向けのサポートエクスペリエンスに対する主な機能強化に取り組んでいます。 この変更は2020年4 *月*/5月に公開予定ですが、共通の入口ポータルを通じて貴社のサービス履歴にアクセスし、より詳細な [!DNL Adobe Customer Support] 情報を提供することが可能になります。
+
+展開に近づくにつれて、お客様の組織に対してさらに多くの情報を提供し続けます。
+
+開始するには、貴社の代理で誰がシステム管理者になるかを確認する際に、お客様の支援が必要です。
+
+## アクション：システム管理者の確認（システム管理者）
+
+弊社の記録によると、お客様は組織内で **指定のシステム管理者で**、アドビ製品のサポート要請を管理および送信する担当者であることが示されています。
+
+システム管理者は、次の操作を行うことがで [!DNL Adobe Admin Console Support Tab] きるにアクセスできます。
+
+* 改善されたケース管理機能の調査
+* とのチャット会話を都合よく開始する [!DNL Adobe Customer Care]
+* ポータルへのサポートユーザーアクセスを許可する
+
+>[!NOTE]
+>2019年11月4日までにこのロールに同意し、送信して、組織のAdobe Experience Manager/Adobe Campaign製品のシステム管理者としてこのロールを受け入れる（または別の連絡先情報を提供する）ことを確認し [!DNL System Admin Confirmation Form] てください。\
+>このフォームに入力すると、適切な資格情報が組織の指定されたシステム管理者に割り当てられます。
+
+このレポートを送 [!DNL System Admin Confirmation Form]信した後は、現時点で追加のアクションは必要ありません。  2020年初頭の次の手順については、システム管理者にお問い合わせください。
+
+この電子メールに関するご質問は、customercare@adobe.comまでお問い合わせください。
+
+よろしくお願いします。
