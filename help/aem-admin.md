@@ -4,7 +4,7 @@ seo-title: Adobe Experience Manager — 新しいサポート体験の提供開�
 description: Adobe Experience Manager — 新しいサポート体験の提供開始
 seo-description: Adobe Experience Manager — 新しいサポート体験の提供開始
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 
 ---
 
@@ -29,7 +29,9 @@ Adobe Experience ManagerおよびAdobe Campaignのお客様向けのサポート
 * とのチャット会話を都合よく開始する [!DNL Adobe Customer Support]
 * ポータルへのサポートユーザーアクセスを許可する
 
-2019年11月4日までに [](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) [!DNL System Admin Confirmation Form]に記入して送信し、組織のAdobe Experience Manager/Adobe Campaign製品のシステム管理者としてこのロールを承認する（または別の連絡先情報を提供する）ことを確認してください。  このフォームに入力すると、適切な資格情報が組織の指定されたシステム管理者に割り当てられます。
+>[!NOTE]
+>2019年11月4日までに **[!DNL System Admin Confirmation Form]に記入して送信し、組織のAdobe Experience Manager製品のシステム管理者としてこのロールに同意する（または別の連絡先情報を提供する）ことを確認してください[](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)**。
+>このフォームに入力すると、適切な資格情報が組織の指定されたシステム管理者に割り当てられます。
 
 [!DNLシステム管理者確認フォーム]を受け取る [と、確認の電子メールが送信されます](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)。
 
