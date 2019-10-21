@@ -4,7 +4,7 @@ seo-title: Adobe Campaign — 新しいエンタープライズサポート体�
 description: Adobe Campaign — 新しいエンタープライズサポート体験が提供される予定です
 seo-description: Adobe Campaign — 新しいエンタープライズサポート体験が提供される予定です
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
 
 ---
 
@@ -30,7 +30,7 @@ source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 * ポータルへのサポートユーザーアクセスを許可する
 
 >[!NOTE]
->2019年11月4日までにこのロールに同意し、送信して、組織のAdobe Experience Manager/Adobe Campaign製品のシステム管理者としてこのロールを受け入れる（または別の連絡先情報を提供する）ことを確認し [!DNL System Admin Confirmation Form] てください。\
+>2019年11月4日までにAdobe Campaign製品のシステム管理者として、このロールを受け入れる（または別の連絡先情報を提供する）ことを確認して [!DNL System Admin Confirmation Form] ください。\
 >このフォームに入力すると、適切な資格情報が組織の指定されたシステム管理者に割り当てられます。
 
 このレポートを送 [!DNL System Admin Confirmation Form]信した後は、現時点で追加のアクションは必要ありません。  2020年初頭の次の手順については、システム管理者にお問い合わせください。
