@@ -4,7 +4,7 @@ description: 新しいアドビカスタマーサポート体験が提供され�
 seo-title: 新しいアドビカスタマーサポート体験が提供される予定 — Campaign導入担当者
 seo-description: 新しいアドビカスタマーサポート体験が提供される予定 — Campaign導入担当者
 translation-type: tm+mt
-source-git-commit: e171b2b32f06834e588c01df39b321c7ce39544a
+source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 
 ---
 
@@ -19,19 +19,17 @@ Adobe Experience ManagerおよびAdobe Campaignのお客様向けのサポート
 
 ## アクション：システム管理者の確認（システム管理者）
 
-弊社の記録により、貴社のAdobe Campaign **製品の最初の購入プロセスで、主要連絡先として貴社を特定しました**。 その結果、お客様は指定のシステム管理者（アドビ製品のサポート要請を管理および送信する担当者）としてリストされます。
+弊社の記録により、貴社のAdobe Experience Manager/Adobe Campaign製品の初回購入プロセスの主な担当者としてお客様を特定いたしました。 その結果、お客様は指定のシステム管理者 **(アドビ製品のサポート要請を管理および送信する担当者**)としてリストされます。
 
-システム管理者は、次の操作を行うことがで [!DNL Adobe Admin Console Support Tab] きるにアクセスできます。
+システム管理者は、次の操作を行うことがで [!DNL Adobe Admin Console Support Portal] きるにアクセスできます。
 
 * 改善されたケース管理機能の調査
-* とのチャット会話を都合よく開始する [!DNL Adobe Customer Care]
+* とのチャット会話を都合よく開始する [!DNL Adobe Customer Support]
 * ポータルへのサポートユーザーアクセスを許可する
 
-2019年11月4日までにこのロールに同意し、送信して、組織のAdobe Experience Manager/Adobe Campaign製品のシステム管理者として、このロールに同意する（または別の連絡先を指定する）ことを確 **認してください[!DNL System Admin Confirmation Form]**。
+2019年11月4日までに [](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) [!DNL System Admin Confirmation Form]に記入して送信し、組織のAdobe Experience Manager/Adobe Campaign製品のシステム管理者としてこのロールを承認する（または別の連絡先情報を提供する）ことを確認してください。 このフォームに記入すると、適切な資格情報が組織の指定されたシステム管理者に割り当てられ、今後の変更に備えるために、詳細を提供できるようになります。
 
-このフォームに記入すると、適切な資格情報が組織の指定されたシステム管理者に割り当てられ、今後の変更に備えるために、詳細を提供できるようになります。
-
-このレポートを送 [!DNL System Admin Confirmation Form]信した後は、現時点で追加のアクションは必要ありません。  2020年初めの次の手順については、確認済みのシステム管理者にお問い合わせください。
+[!DNLシステム管理者確認フォーム]を受け取る [と、確認の電子メールが送信されます](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)。
 
 この電子メールに関するご質問は、customercare@adobe.comまでお問い合わせください。
 
