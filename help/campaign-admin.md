@@ -1,15 +1,15 @@
 ---
-title: キャンペーン — 新しいサポートエクスペリエンスが提供される
+title: '[!DNLキャンペーン] — 新しいサポート体験が提供されます'
 seo-title: Adobe Campaign — 新しいエンタープライズサポート体験が提供される予定です
 description: Adobe Campaign — 新しいエンタープライズサポート体験が提供される予定です
 seo-description: Adobe Campaign — 新しいエンタープライズサポート体験が提供される予定です
 translation-type: tm+mt
-source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
+source-git-commit: c991cbe424e622d24360fcd78640ea3f8079bc84
 
 ---
 
 
-# キャンペーン — 新しいサポートエクスペリエンスが提供される
+# [!DNL Campaign]  — 新しいサポート体験が提供される
 
 **2019年10月22日**
 
