@@ -1,10 +1,10 @@
 ---
-title: 新しいアドビカスタマーサポート体験が提供される予定 — Campaign導入担当者
-description: 新しいアドビカスタマーサポート体験が提供される予定 — Campaign導入担当者
-seo-title: 新しいアドビカスタマーサポート体験が提供される予定 — Campaign導入担当者
-seo-description: 新しいアドビカスタマーサポート体験が提供される予定 — Campaign導入担当者
+title: 新しいアドビカスタマーサポート体験が近づいています — [!DNL Campaign]展開担当者
+description: 新しいアドビカスタマーサポート体験が近づいています — [!DNL Campaign]展開担当者
+seo-title: 新しいアドビカスタマーサポート体験が近づいています — [!DNL Campaign]展開担当者
+seo-description: 新しいアドビカスタマーサポート体験が近づいています — [!DNL Campaign]展開担当者
 translation-type: tm+mt
-source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
+source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 
