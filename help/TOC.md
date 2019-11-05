@@ -1,10 +1,10 @@
 ---
-cloud: Experience Cloud
+cloud: experience-cloud
 product: Experience Cloud
-sub-product: 顧客
-audience: エンドユーザー
-user-guide-title: '[!DNL Customer One for Enterprise]ヘルプ'
-translation-type: tm+mt
+sub-product: customer one
+audience: end-user
+user-guide-title: '[!DNL Customer One for Enterprise] ヘルプ'
+translation-type: ht
 source-git-commit: 7cf1dc6e369fd28ab7569ee3d52f03dd3e7cb639
 
 ---
@@ -12,12 +12,12 @@ source-git-commit: 7cf1dc6e369fd28ab7569ee3d52f03dd3e7cb639
 
 # [!DNL Customer One for Enterprise] {#using}
 
-+ [はじめに](home.md)
++ [概要](home.md)
 + [!DNL Campaign] {#campaign}
-   + [[!DNLキャンペーン]通知の一覧](campaign-list.md)
-   + [[!DNLキャンペーン]管理者への通知 — 10-21-19](campaign-admin.md)
-   + [[!DNLキャンペーン]展開通知 — 10-21-19](campaign-deploy.md)
+   + [[!DNL Campaign] に関するお知らせのリスト](campaign-list.md)
+   + [[!DNL Campaign] 管理者へのお知らせ - 2019/10/22](campaign-admin.md)
+   + [[!DNL Campaign] デプロイ担当者へのお知らせ - 2019/10/22](campaign-deploy.md)
 + Experience Manager {#aem}
-   + [AEMの通知のリスト](aem-list.md)
-   + [AEM管理者へのお知らせ — 10-21-19](aem-admin.md)
-   + [AEM導入担当者へのお知らせ — 10-21-19](aem-deploy.md)
+   + [AEM に関するお知らせのリスト](aem-list.md)
+   + [AEM 管理者へのお知らせ - 2019/10/22](aem-admin.md)
+   + [AEM デプロイ担当者へのお知らせ - 2019/10/22](aem-deploy.md)
