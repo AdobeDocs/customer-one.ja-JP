@@ -1,19 +1,19 @@
 ---
-title: '[!DNLキャンペーン]通知'
-description: '[!DNLキャンペーン]日付別通知'
-seo-title: '[!DNLキャンペーン]通知'
-seo-description: '[!DNLキャンペーン]通知'
-translation-type: tm+mt
+title: '[!DNL Campaign] に関するお知らせ'
+description: '[!DNL Campaign] に関するお知らせ（日付別）'
+seo-title: '[!DNL Campaign] に関するお知らせ'
+seo-description: '[!DNL Campaign] に関するお知らせ'
+translation-type: ht
 source-git-commit: 84c6cffc5b7e9e060731384a6695fded451be3b9
 
 ---
 
 
-# [!DNL Campaign] お知らせ
+# [!DNL Campaign] に関するお知らせ
 
-## Adobe Campaignのお客様への通知（日付別）。
+## Adobe Campaign ユーザーへのお知らせ（日付別）。
 
-顧客への通知の完全なリス [!DNL Campaign] ト
+[!DNL Campaign] ユーザーへのお知らせの完全なリスト
 
-* [キャンペーンシステム管理者通知、2019年10月22日](campaign-admin.md)
-* [キャンペーン展開連絡先通知、2019年10月22日](campaign-deploy.md)
+* [Campaign システム管理者へのお知らせ - 2019 年 10 月 22 日](campaign-admin.md)
+* [Campaign デプロイ担当者へのお知らせ - 2019 年 10 月 22 日](campaign-deploy.md)
