@@ -1,40 +1,40 @@
 ---
-title: '[!DNL Campaign] - 新しいサポートエクスペリエンスの提供開始'
-seo-title: Adobe Campaign - 新しいサポートエクスペリエンスの提供開始
-description: Adobe Campaign - 新しいサポートエクスペリエンスの提供開始
-seo-description: Adobe Campaign - 新しいサポートエクスペリエンスの提供開始
+title: '[!DNLキャンペーン] — 新しいサポート体験が提供されます'
+seo-title: Adobe Campaign — 新しいサポートエクスペリエンスの提供開始
+description: Adobe Campaign — 新しいサポートエクスペリエンスの提供開始
+seo-description: Adobe Campaign — 新しいサポートエクスペリエンスの提供開始
 translation-type: tm+mt
 source-git-commit: b73689e020d4a5fa2eec82e2e89fbfdcca312a81
 
 ---
 
 
-# [!DNL Campaign] - 新しいサポートエクスペリエンスの提供開始
+# [!DNL Campaign] — 新しいサポートエクスペリエンスの提供開始
 
 **2019 年 10 月 22 日**
 
-アドビは、Adobe Campaign ユーザーのサポートエクスペリエンスに対する主な機能強化に取り組んでいます。この変更は *2020 年 4 月／5 月に公開予定*&#x200B;であり、共通の入口ポータルを通じて、[!DNL Adobe Customer Support] にアクセスすることや、詳細な貴社のサービス履歴情報を表示できるようになります。
+アドビは、Adobe Campaign のお客様向けのサポートエクスペリエンスに対する主な機能強化に取り組んでいます。*2020 年 4 月／5 月にロールアウトが予定されている*&#x200B;これらの変更により、組織は [!DNL Adobe Customer Support] にアクセスし、共通のエントリーポータルからサービス履歴の詳細な情報を表示できるようになります。
 
-公開が近づきましたら、引き続き詳細をお知らせします。
+ロールアウトが近づくにつれ、アドビでは引き続き貴社に詳細を提供します。
 
-開始するには、貴社の代表としてシステム管理者になるユーザーを確認してください。
+開始するには、貴社の代理としてシステム管理者になるユーザーを確認してください。
 
-## アクション：システム管理者（System Admin）の確認
+## アクション：システム管理者の確認（システム管理者）
 
-アドビの記録から、お客様は&#x200B;**組織内の指定システム管理者**（これらのアドビ製品のサポートリクエストを管理および送信する担当者）としてリストされています。
+アドビの記録によると、お客様は&#x200B;**組織内の指定システム管理者で**（これらのアドビ製品のサポートリクエストを管理および送信する担当者）としてリストされます。
 
 システム管理者は、[!DNL Adobe Admin Console Support Portal] にアクセスし、次の操作をおこなうことができます。
 
-* 改善されたケース管理機能を操作する
-* [!DNL Adobe Customer Support] とのチャットを適宜開始する
+* 改善されたケース管理機能を見る
+* 便利な [!DNL Adobe Customer Support] とのチャットを開始する
 * サポートユーザーに対し、ポータルへのアクセスを許可する
 
 >[!NOTE]
->**2019 年 11 月 4 日までに [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) に入力および送信**し、組織の Adobe Campaign 製品のシステム管理者としてのこの役割を受け入れる（または別の連絡窓口を提供する）ことを確認してください。
->このフォームに記入すると、適切な資格情報が組織の指定システム管理者に割り当てられるようになります。
+>Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Campaign products by **completing and submitting the[[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)by November 4, 2019**.
+>このフォームに入力することで、適切な資格情報が組織の指定システム管理者に割り当てられるようにします。
 
-[!DNL System Admin Confirmation Form] を送信した後は、現時点で追加のアクションは必要ありません。次の手順については、2020 年初頭にシステム管理者にご連絡差し上げる予定です。
+[!DNL System Admin Confirmation Form] を送信した後は、現時点で追加のアクションは必要ありません。2020 年初めにおこなう次の手順については、システム管理者にご連絡致します。
 
 この電子メールに関するご質問は、customercare@adobe.com までお問い合わせください。
 
-よろしくお願いいたします。
+よろしくお願いします。
