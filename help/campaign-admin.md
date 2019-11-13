@@ -3,7 +3,7 @@ title: '[!DNL Campaign] - 新しいサポートエクスペリエンスの提供
 seo-title: Adobe Campaign - 新しいサポートエクスペリエンスの提供開始
 description: Adobe Campaign - 新しいサポートエクスペリエンスの提供開始
 seo-description: Adobe Campaign - 新しいサポートエクスペリエンスの提供開始
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 85695d0bbd02d3ffd2286cdaa643551340b5d09d
 
 ---
@@ -33,7 +33,7 @@ source-git-commit: 85695d0bbd02d3ffd2286cdaa643551340b5d09d
 >**2019 年 11 月 4 日までに [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) に入力および送信**し、組織の Adobe Campaign 製品のシステム管理者としてのこの役割を受け入れる（または別の連絡窓口を提供する）ことを確認してください。
 >このフォームに記入すると、適切な資格情報が組織の指定システム管理者に割り当てられるようになります。
 
-An email confirmation will be sent upon receipt of the [!DNL System Admin Confirmation Form].
+[!DNL System Admin Confirmation Form] が受理されると、確認メールが送信されます。
 
 この電子メールに関するご質問は、customercare@adobe.com までお問い合わせください。
 
