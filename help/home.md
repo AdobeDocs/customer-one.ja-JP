@@ -17,7 +17,7 @@ source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 
 ## 詳細
 
-* 4月27日または5月11日に新しいエクスペリエンスに加わります。
+* 4月27日または5月11日に新しいエクスペリエンスの一部となります。
 * チケットの送信を開始できる日を通知する追加の手順（10日前および本日）を含む2通の電子メールがアドビからお客様に届きます。
 * 5月11日以降、レガシーのAdobe Experience Managerおよびキャンペーンのカスタマーケース管理システムは廃止され、追加のガイダンスを得るために、お客様はこのページにリダイレクトされます。
 * Go-Live時にオープンしていた顧客事例は、新しいシステムに移行され、閉鎖を容易にします。
@@ -47,4 +47,4 @@ Go-Live後、問題が発生し、新しいツールにログインできない�
 5月11日より前は、従来のエクストラネットまたは [Experience](https://support.neolane.net/webApp/extranetLogin) Manager Daycareのケース管理システム [キャンペーンを引き続き使用できます](https://daycare.day.com/home.html) 。  5月11日以降は、管理コンソールにリダイレク [トされます](https://adminconsole.adobe.com/) 。これらのシステムは、その時点で廃止されます。
 
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+本ご案内のメールに関するご質問は、[customercare@adobe.com](mailto:customercare@adobe.com) までお問い合わせください。
