@@ -1,7 +1,7 @@
 ---
-title: アドビの新しいカスタマーサポート体験の発表
-description: 新しいサポート体験を得るための初めてのお客様とのコミュニケーション
-translation-type: tm+mt
+title: アドビの新しいカスタマーサポートエクスペリエンスのお知らせ
+description: 新しいサポートエクスペリエンスに関する初めてのお客様とのコミュニケーション
+translation-type: ht
 source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 ---
