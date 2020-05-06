@@ -4,17 +4,19 @@ description: アドビカスタマーサポートの新機能
 seo-description: アドビカスタマーサポートの新機能
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
-source-git-commit: e10515e6a7c177b5a93fda130da5517bdd374031
+source-git-commit: 15f3575335be07de0cf6c2926b5a05f8253f21ef
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 52%
+source-wordcount: '490'
+ht-degree: 51%
 
 ---
 
 
 # アドビカスタマーサポートの新機能
 
-## 2020年5月11日現在、アドビカスタマーサポート体験が公開されます。
+## 管理コンソールサポートチケット
+
+2020年5月11日現在、アドビカスタマーサポート体験が公開されます。
 
 サポートチケットを [管理コンソールから送信できるようになりました。](https://adminconsole.adobe.com/)
 
@@ -28,13 +30,16 @@ ht-degree: 52%
 
 ## レガシーシステムについて
 
-### 新しいチケット/ケースは、5月11日現在、レガシーシステムでは提出できなくなります。  新しいチケット [](https://adminconsole.adobe.com/) /ケースの送信には、管理コンソールが使用されます。
+新しいチケット/ケースは、5月11日現在、レガシーシステムでは提出できなくなります。  新しいチケット [](https://adminconsole.adobe.com/) /ケースの送信には、管理コンソールが使用されます。
 
-### 既存のチケット/ケース：
+### 既存のチケット/ケース
+
 * 5月11日から5月20日の間、既存のチケット/ケースを完成まで使用できるレガシーシステムが維持されます。
 * 5月20日から、サポートチームは、残りのオープンケースをレガシーシステムから新しいサポート体験に移行します。  サポートへのお問い合わせ方法に関する電子メール通知を受け取り、引き続きこのサポートをご利用ください。
 
-### ケース履歴： クローズドケースの履歴は、アドビのサポート担当者に表示されます。  クローズドケースに関して支援が必要な場合は、Needのヘルプを参照してください。 」の節を参照してください。
+### ケース履歴
+
+クローズドケースの履歴は、アドビのサポート担当者に表示されます。  クローズドケースに関して支援が必要な場合は、Needのヘルプを参照してください。 」の節を参照してください。
 
 ## ヘルプが必要な場合
 
@@ -53,6 +58,5 @@ Experience Leagueからチケットをログに記録して、次の情報を [�
 ### オプション 2：5 月 11 日以前
 
 5 月 11 日以前は、従来の [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) または [Experience Manager Daycare](https://daycare.day.com/home.html) ケース管理システムを引き続き使用できます。After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will not be accepting new cases.
-
 
 この電子メールに関するご質問は、 [Experience Leagueからチケットをログに記録してお問い合わせください](https://experienceleague.adobe.com/?support-solution=General#support)。
