@@ -3,60 +3,60 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: アドビカスタマーサポートの新機能
 seo-description: アドビカスタマーサポートの新機能
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 15f3575335be07de0cf6c2926b5a05f8253f21ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
 # アドビカスタマーサポートの新機能
 
-## 管理コンソールサポートチケット
+## Admin Console サポートチケット
 
-2020年5月11日現在、アドビカスタマーサポート体験が公開されます。
+2020 年 5 月 11 日から、アドビカスタマーサポートの新機能が公開されています。
 
-サポートチケットを [管理コンソールから送信できるようになりました。](https://adminconsole.adobe.com/)
+サポートチケットを [Admin Console](https://adminconsole.adobe.com/) から起票できるようになりましたので、ご利用ください。
 
-以前に共有したとおり、アドビでは、Adobe Experience Managerおよびキャンペーン製品をはじめとして、アドビカスタマーサポートとのやり取りを改善するために取り組んでいます。 アドビのビジョンは、Adobe Admin Consoleを使用して単一のエントリーポイントに移動し、サポート体験を合理化することです。 本番稼働後は、アドビカスタマーサポートに簡単にアクセスできます。 製品間で共通のシステムを使用して、サービス履歴をより詳細に把握できる 電話、Web、チャットで、この単一のポータルからヘルプを要求できます。
+以前にお知らせしたとおり、アドビは、Adobe Experience Manager および Campaign 製品から、アドビカスタマーサポートをご利用の際の顧客体験の向上に取り組んでおります。その一環として、一元的なエントリポイントである Adobe Admin Console に移行し、サポートを合理化することとなりました。新ポータルへの移行が完了次第、アドビカスタマーサポートに簡単にアクセスできるようになります。製品をまたいで共通のシステムを利用することで、サービス履歴の明確な把握がより容易になり、電話、web、チャットによるヘルプリクエストもこの単一のポータルから可能になって利便性が高まります。※チャットは英語のみの対応となります。
 
-## 要求された顧客アクション
+## 必要な手順
 
-1. 管理コンソール有効化コンテンツ [の入手](https://helpx.adobe.com/enterprise/get-started.html)、 [ユーザガイド](https://helpx.adobe.com/enterprise/managing/user-guide.html) 、サポートケースの [作成と管理方法を確認します](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
-1. [管理コンソールにサインインし](https://adminconsole.adobe.com/) 、アクセス権があることを確認します
-1. システム管理者の場合は、社内のサポートユーザーの正確性を確認し、検証してください(以下のガイドページを参照してください。 [ユーザーの管理](https://helpx.adobe.com/enterprise/using/users.html) とチームアカウントの [管理](https://helpx.adobe.com/enterprise/using/accounts.html))
+1. Admin Console を使用するために必要なコンテンツ（[基本を学ぶ](https://helpx.adobe.com/jp/enterprise/get-started.html)、[ユーザーガイド](https://helpx.adobe.com/jp/enterprise/managing/user-guide.html)）や、[サポートケースの作成および管理方法](https://helpx.adobe.com/jp/enterprise/using/support-and-expert-services.html)を確認してください
+1. [Admin Console](https://adminconsole.adobe.com/) にログインし、アクセス権があることを確認してください
+1. システム管理者の方は、社内のサポートユーザーを確認し、検証してください（ガイドページの[ユーザーの管理](https://helpx.adobe.com/jp/enterprise/using/users.html)および[チームアカウントの管理](https://helpx.adobe.com/jp/enterprise/using/accounts.html)を参照）
 
 ## レガシーシステムについて
 
-新しいチケット/ケースは、5月11日現在、レガシーシステムでは提出できなくなります。  新しいチケット [](https://adminconsole.adobe.com/) /ケースの送信には、管理コンソールが使用されます。
+5 月 11 日以降、レガシーシステムからは、新しいチケットやケースを起票できなくなります。新しいチケットやケースの送信には、[Admin Console](https://adminconsole.adobe.com/) が使用されます。
 
-### 既存のチケット/ケース
+### 既存のチケットおよびケース
 
-* 5月11日から5月20日の間、既存のチケット/ケースを完成まで使用できるレガシーシステムが維持されます。
-* 5月20日から、サポートチームは、残りのオープンケースをレガシーシステムから新しいサポート体験に移行します。  サポートへのお問い合わせ方法に関する電子メール通知を受け取り、引き続きこのサポートをご利用ください。
+* 5 月 11 日～20 日：既存のチケットやケースを完了させるために、レガシーシステムを使用できます。
+* 5 月 20 日以降：サポートチームにより、残りのオープンケースがレガシーシステムから新しいサポートシステムに移行されます。お客様には、これらのケースを引き続き処理するためのサポートへのお問い合わせ方法に関する電子メール通知が送信されます。
 
-### ケース履歴
+### ケースの履歴
 
-クローズドケースの履歴は、アドビのサポート担当者に表示されます。  クローズドケースに関して支援が必要な場合は、Needのヘルプを参照してください。 」の節を参照してください。
+アドビのサポート担当者は、クローズ済みケースの履歴を閲覧できます。クローズ済みケースに関してサポートが必要な場合は、以下の「ヘルプが必要な場合」の節を参照してください。
 
-## ヘルプが必要ですか？
+## ヘルプが必要な場合
 
-Go Live後、問題が発生し、新しいツールにログインできない場合は、次のオプションを使用できます。
+移行完了後、問題が発生し、新しいツールにログインできない場合は、次のオプションを使用できます。
 
-### オプション1: チケットの送信
+### オプション 1：チケットの起票
 
-Experience Leagueからチケットをログに記録して、次の情報を [お問い合わせください](https://experienceleague.adobe.com/?support-solution=General#support) 。
+[Experience League](https://experienceleague.adobe.com/?support-solution=General#support) からチケットを起票してお問い合わせいただけます。その際、次の情報を含めてください。
 
-* 連絡先の詳細： 名前、電子メールアドレス、電話
+* 連絡先の詳細：名前、電子メールアドレス、電話番号
 * 会社名
-* 所有するAdobe製品
+* 所有するアドビ製品
 * 問題の優先度
 * 問題の簡単な説明
 
-### オプション2: 5月11日以前
+### オプション 2：5 月 11 日まで
 
-5月11日より前も、従来の [キャンペーンエクストラネット](https://support.neolane.net/webApp/extranetLogin) または [Experience Manager Daycare](https://daycare.day.com/home.html) ケース管理システムを引き続き使用できます。  5月11日を過ぎると、 [管理コンソールにリダイレクトされます](https://adminconsole.adobe.com/) 。これらのシステムは、新しいケースを受け入れないためです。
+5 月 11 日までは、従来の [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) または [Experience Manager Daycare](https://daycare.day.com/home.html) ケース管理システムを引き続き使用できます。5 月 11 日以降、これらのシステムでは新しいケースの受付がおこなわれず、[Admin Console](https://adminconsole.adobe.com/) にリダイレクトされます。
 
-この電子メールに関するご質問は、 [Experience Leagueからチケットをログに記録してお問い合わせください](https://experienceleague.adobe.com/?support-solution=General#support)。
+この電子メールに関するご質問は、[Experience League](https://experienceleague.adobe.com/?support-solution=General#support) からチケットを起票してお問い合わせください。
