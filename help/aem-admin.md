@@ -3,8 +3,11 @@ title: AEM - 新しいカスタマーサポート体験が提供されます
 seo-title: Adobe Experience Manager - 新しいカスタマーサポート体験が提供されます
 description: Adobe Experience Manager - 新しいカスタマーサポート体験が提供されます
 seo-description: Adobe Experience Manager - 新しいカスタマーサポート体験が提供されます
-translation-type: ht
-source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
+translation-type: tm+mt
+source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 100%
 
 ---
 
@@ -30,7 +33,9 @@ source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 * ポータルへのアクセス権をサポート管理者に付与する
 
 >[!NOTE]
->**2019 年 11 月 4 日までに [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) にご入力のうえ送信**し、組織の Adobe Experience Manager 製品のシステム管理者としてこの役割に同意する（または別の連絡先情報を提供する）ことのご確認をお願いいたします。
+>
+>**2019 年 11 月 4 日までに [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) にご入力のうえ送信**&#x200B;し、組織の Adobe Experience Manager 製品のシステム管理者としてこの役割に同意する（または別の連絡先情報を提供する）ことのご確認をお願いいたします。
+>
 >このフォームにご入力いただくことで、適切な資格情報が組織の指定されたシステム管理者に割り当てられます。
 
 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) が受理されると、確認の電子メールが送信されます。
