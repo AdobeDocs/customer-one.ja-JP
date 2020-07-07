@@ -1,10 +1,13 @@
 ---
-title: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - [!DNL Campaign] デプロイ担当者
-description: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - [!DNL Campaign] デプロイ担当者
-seo-title: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - [!DNL Campaign] デプロイ担当者
-seo-description: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - [!DNL Campaign] デプロイ担当者
-translation-type: ht
-source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
+title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
+description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
+seo-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
+seo-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
+translation-type: tm+mt
+source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
+workflow-type: tm+mt
+source-wordcount: '340'
+ht-degree: 88%
 
 ---
 
@@ -28,7 +31,9 @@ source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 * ポータルへのアクセス権をサポート管理者に付与する
 
 >[!NOTE]
->**2019 年 11 月 4 日までに [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) にご入力のうえ送信**し、組織の Adobe Campaign 製品のシステム管理者としてこの役割に同意する（または別の連絡先情報を提供する）ことのご確認をお願いいたします。
+>
+>**2019 年 11 月 4 日までに [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) にご入力のうえ送信**&#x200B;し、組織の Adobe Campaign 製品のシステム管理者としてこの役割に同意する（または別の連絡先情報を提供する）ことのご確認をお願いいたします。
+>
 >このフォームにご入力いただくことで、適切な資格情報が組織の指定されたシステム管理者に割り当てられ、今後の変更に備えて弊社から詳細を提供できるようになります。
 
 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) が受理されると、確認の電子メールが送信されます。
