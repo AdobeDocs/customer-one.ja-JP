@@ -1,43 +1,43 @@
 ---
-title: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 — AEM デプロイ担当者
-description: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 — AEM デプロイ担当者
-seo-title: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 — AEM デプロイ担当者
-seo-description: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 — AEM デプロイ担当者
-translation-type: tm+mt
+title: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - AEM デプロイ担当者
+description: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - AEM デプロイ担当者
+seo-title: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - AEM デプロイ担当者
+seo-description: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - AEM デプロイ担当者
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 
 # 新しい [!DNL Adobe Customer Support] エクスペリエンスの提供開始
 
-**2019 年 10 月 22 日**
+**2019 年 10 月 21 日**
 
-アドビは、Adobe Experience Manager および Adobe Campaign のお客様向けのサポートエクスペリエンスに対する主な機能強化に取り組んでいます。2020 年 4 月／5 月にロールアウトが予定されているこれらの変更により、組織は [!DNL Adobe Customer Support] にアクセスし、共通のエントリーポータルからサービス履歴の詳細な情報を表示できるようになります。ロールアウトが近づくにつれ、アドビでは引き続き貴社に詳細を提供します。
+アドビは、Adobe Experience Manager および Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。この新しいサポートは 2020 年 4 月／5 月に公開予定です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。公開が近づきましたら、また詳細をお知らせします。
 
-開始するには、貴社の代理としてシステム管理者になるユーザーを確認してください。
+その前に、お手数ですが、組織の代表としてシステム管理者になられる方の連絡先情報をお知らせください。
 
-## アクション：システム管理者の確認（システム管理者）
+## お客様へのお願い
 
-当社の記録によると、貴社のAdobe Experience Manager/Adobe Campaign製品の元の購入プロセスで、主要連絡先としてお客様を特定しました。 As a result, you are listed as the designated **System Admin**, the person responsible for managing and submitting support requests for these Adobe products.
+お客様は組織の Adobe Experience Manager/Adobe Campaign 製品の初回購入プロセスで、主要担当者として特定されました。その結果、お客様は&#x200B;**システム管理者**（これらのアドビ製品のサポートリクエストを管理および送信する担当者）として識別されています。
 
 システム管理者は、[!DNL Adobe Admin Console Support Portal] にアクセスし、次の操作をおこなうことができます。
 
-* 改善されたケース管理機能を見る
-* 便利な [!DNL Adobe Customer Support] とのチャットを開始する
-* サポートユーザーに対し、ポータルへのアクセスを許可する
+* 強化されたケース管理機能を利用する
+* [!DNL Adobe Customer Support] にチャットで連絡する
+* ポータルへのアクセス権をサポート管理者に付与する
 
 >[!NOTE]
 >
->Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Experience Manager products by **completing and submitting the[[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)by November 4, 2019**.
+>**2019 年 11 月 4 日までに [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) にご入力のうえ送信**&#x200B;し、組織の Adobe Experience Manager 製品のシステム管理者としてこの役割に同意する（または別の連絡先情報を提供する）ことのご確認をお願いいたします。
 >
->このフォームに記入することで、適切な資格情報を組織の指定システム管理者に割り当て、アドビは、組織が今後の変更に備えられるよう詳細を提供できるようになります。
+>このフォームにご入力いただくことで、適切な資格情報が組織の指定されたシステム管理者に割り当てられ、今後の変更に備えて弊社から詳細を提供できるようになります。
 
-[!DNLシステム管理者確認フォーム]の受信時に確認の電子メールが送信され [ます](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)。
+[[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) が受理されると、確認の電子メールが送信されます。
 
-この電子メールに関するご質問は、customercare@adobe.com までお問い合わせください。
+本ご案内のメールに関するご質問は、customercare@adobe.com までお問い合わせください。
 
-よろしくお願いします。
+ 
