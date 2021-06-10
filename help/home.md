@@ -5,26 +5,24 @@ description: アドビカスタマーサポートの新機能
 seo-description: アドビカスタマーサポートの新機能
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
+source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
 workflow-type: tm+mt
-source-wordcount: '801'
-ht-degree: 46%
+source-wordcount: '784'
+ht-degree: 3%
 
 ---
 
-# アドビカスタマーサポートの新機能
+# Adobeカスタマーサポート体験
 
-## Admin Console サポートチケット
+## Admin Consoleサポートチケット
 
-2020 年 5 月 11 日から、アドビカスタマーサポートの新機能が公開されています。
+サポートチケットを[Admin Console](https://adminconsole.adobe.com/)経由で送信できるようになりました。 サポートチケットの提出方法については、[サポートチケット](#submit-ticket)の提出の節を参照してください。
 
-サポートチケットを [Admin Console](https://adminconsole.adobe.com/) から起票できるようになりましたので、ご利用ください。.サポートチケットの提出方法については、[サポートチケット](#submit-ticket)の提出の節を参照してください。
-
-以前にお知らせしたとおり、アドビは、Adobe Experience Manager および Campaign 製品から、アドビカスタマーサポートをご利用の際の顧客体験の向上に取り組んでおります。その一環として、一元的なエントリポイントである Adobe Admin Console に移行し、サポートを合理化することとなりました。運用が開始されると、組織は簡単にAdobeカスタマーサポートにアクセスできます。製品間で共通のシステムを使用して、サービス履歴をより詳細に把握できる。電話、web、チャット経由でのヘルプのリクエストと、単一のポータル経由でのチャットが可能です。
+以前に共有したように、Adobe Experience ManagerおよびCampaign製品を使用して、Adobeカスタマーサポートとのやり取りの改善に取り組んでいます。 私たちのビジョンは、Adobe Admin Consoleを使用して、単一のエントリポイントに移行し、サポート体験を合理化することです。 運用が開始されると、組織は簡単にAdobeカスタマーサポートにアクセスできます。製品間で共通のシステムを使用して、サービス履歴をより詳細に把握できる。電話、web、チャット経由でのヘルプのリクエストと、単一のポータル経由でのチャットが可能です。
 
 ## Admin Consoleサポートチケット{#submit-ticket}の提出方法
 
-[Admin Console](https://adminconsole.adobe.com/)でサポートチケットを送信するには、システム管理者の役割が割り当てられている必要があります。 この役割を割り当てられるのは、組織内のシステム管理者のみです。 製品、製品プロファイル、その他の管理ロールは、サポート管理者ロールを割り当てることができず、サポートチケットを送信する際に使用する「**[!UICONTROL ケースを作成]**」オプションを表示できません。 詳しくは、[エンタープライズ版およびチーム版のカスタマーケア](https://helpx.adobe.com/jp/enterprise/using/support-and-expert-services.html)のドキュメントを参照してください。
+[Admin Console](https://adminconsole.adobe.com/)でサポートチケットを送信するには、システム管理者の役割が割り当てられている必要があります。 この役割を割り当てられるのは、組織内のシステム管理者のみです。 製品、製品プロファイル、その他の管理ロールは、サポート管理者ロールを割り当てることができず、サポートチケットを送信する際に使用する「**[!UICONTROL ケースを作成]**」オプションを表示できません。 詳しくは、[エンタープライズ版およびチーム版のカスタマーケア](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)のドキュメントを参照してください。
 
 ### サポート管理者ロールの割り当て
 
@@ -60,33 +58,33 @@ ht-degree: 46%
 
 ## レガシーシステムについて
 
-5 月 11 日以降、レガシーシステムからは、新しいチケットやケースを起票できなくなります。新しいチケットやケースの送信には、[Admin Console](https://adminconsole.adobe.com/) が使用されます。
+5月11日以降、レガシーシステムでは新しいチケットやケースを提出できなくなります。  [Admin Console](https://adminconsole.adobe.com/)は、新しいチケットやケースの送信に使用されます。
 
-### 既存のチケットおよびケース
+### 既存のチケット/ケース
 
-* 5 月 11 日～20 日：既存のチケットやケースを完了させるために、レガシーシステムを使用できます。
-* 5 月 20 日以降：サポートチームにより、残りのオープンケースがレガシーシステムから新しいサポートシステムに移行されます。お客様には、これらのケースを引き続き処理するためのサポートへのお問い合わせ方法に関する電子メール通知が送信されます。
+* 5月11日～5月20日までは、既存のチケットやケースを完了するために、レガシーシステムを引き続き使用できます。
+* 5月20日以降、サポートチームは残りのオープンケースをレガシーシステムから新しいサポート体験に移行します。  これらのケースを引き続き処理するためのサポートへの問い合わせ方法に関する電子メール通知が届きます。
 
-### ケースの履歴
+### ケース履歴
 
-アドビのサポート担当者は、クローズ済みケースの履歴を閲覧できます。クローズ済みケースに関してサポートが必要な場合は、以下の「ヘルプが必要な場合」の節を参照してください。
+クローズ済みケースの履歴は、Adobe・サポート担当者に表示されます。  クローズ済みケースに関するサポートが必要な場合は、 の節を参照してください。
 
-## ヘルプが必要な場合
+## お問い合わせ
 
 移行完了後、問題が発生し、新しいツールにログインできない場合は、次のオプションを使用できます。
 
-### オプション 1：チケットの起票
+### オプション1:チケットを提出する
 
-[Experience League](https://experienceleague.adobe.com/?support-solution=General#support) からチケットを起票してお問い合わせいただけます。その際、次の情報を含めてください。
+[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)からチケットを起票し、次の情報を記入してお問い合わせください。
 
-* 連絡先の詳細：名前、電子メールアドレス、電話番号
+* 連絡先の詳細：名前、電子メールアドレス、電話
 * 会社名
-* 所有するアドビ製品
+* Adobeの所有製品
 * 問題の優先度
 * 問題の簡単な説明
 
-### オプション 2：5 月 11 日まで
+### オプション2:5月11日まで
 
-5 月 11 日までは、従来の [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) または [Experience Manager Daycare](https://daycare.day.com/home.html) ケース管理システムを引き続き使用できます。5 月 11 日以降、これらのシステムでは新しいケースの受付がおこなわれず、[Admin Console](https://adminconsole.adobe.com/) にリダイレクトされます。
+5月11日より前は、従来の[キャンペーンエクストラネット](https://support.neolane.net/webApp/extranetLogin)または[Experience ManagerDaycare](https://daycare.day.com/home.html)のケース管理システムを引き続き使用できます。  5月11日以降は、[Admin Console](https://adminconsole.adobe.com/)にリダイレクトされます。これらのシステムは、新しいケースを受け入れないからです。
 
-この電子メールに関するご質問は、[Experience League](https://experienceleague.adobe.com/?support-solution=General#support) からチケットを起票してお問い合わせください。
+このメールに関するご質問は、[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)からチケットを起票してお問い合わせください。
