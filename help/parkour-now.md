@@ -3,10 +3,10 @@ title: 新しいカスタマーサポートAdobe体験のお知らせ
 description: 新しいサポート体験のための顧客とのコミュニケーション
 hide: true
 hidefromtoc: true
-source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
+source-git-commit: d81a6d3edb3ff82e49162db4cd00923e20dba28f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '455'
+ht-degree: 5%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 今後の予定
 
-**2 月/3 月 — ユーザーの設定**
+**2022 年 2 月/3 月 — ユーザーのセットアップ**
 
 * ポータルシステムでの既知のサポートユーザーのカスタマーサポート管理者としてのセットアップ
 * システムで生成された電子メールは、Adobeが設定したユーザーに送信されます
@@ -47,7 +47,7 @@ ht-degree: 0%
 >
 >この段階では、ポータルはまだアクティブではなく、サポートケースを送信できません。
 
-**4 月 — 有効化**
+**2022 年 4 月 — 有効化**
 
 * 学習教材は、すべてのポータルシステムユーザーに提供されます
 * サポートユーザーの設定と役割を最終決定するシステム管理者または指定連絡先
