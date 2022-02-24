@@ -1,45 +1,44 @@
 ---
-title: '[!DNL Campaign] - 新しいカスタマーサポート体験が提供されます'
-seo-title: Adobe Campaign - 新しいカスタマーサポート体験が提供されます
-description: Adobe Campaign - 新しいカスタマーサポート体験が提供されます
-seo-description: Adobe Campaign - 新しいカスタマーサポート体験が提供されます
-translation-type: ht
-source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+title: '"[!DNL Campaign]  — 新しいサポート体験が提供されます»'
+seo-title: Adobe Campaign - New enterprise support experience is coming
+description: Adobe Campaign — 新しいサポートエクスペリエンスの提供開始
+seo-description: Adobe Campaign - New enterprise support experience is coming
+source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Campaign] - 新しいカスタマーサポート体験が提供されます
+# [!DNL Campaign] — 新しいサポートエクスペリエンスの提供開始
 
-**2019 年 10 月 21 日**
+**2019 年 10 月 22 日**
 
-アドビでは、Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。この新しいサポートは *2020 年 4 月／5 月に公開予定*&#x200B;です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。
+アドビは、Adobe Campaign のお客様向けのサポートエクスペリエンスに対する主な機能強化に取り組んでいます。*2020 年 4 月／5 月にロールアウトが予定されている*&#x200B;これらの変更により、組織は [!DNL Adobe Customer Support] にアクセスし、共通のエントリーポータルからサービス履歴の詳細な情報を表示できるようになります。
 
-公開が近づきましたら、また詳細をお知らせします。
+ロールアウトが近づくにつれ、アドビでは引き続き貴社に詳細を提供します。
 
-その前に、お手数ですが、組織の代表としてシステム管理者になられる方の連絡先情報をお知らせください。
+開始するには、貴社の代理としてシステム管理者になるユーザーを確認してください。
 
-## お客様へのお願い
+## アクション：システム管理者の確認（システム管理者）
 
-お客様は、**組織のシステム管理者**（これらのアドビ製品のサポートリクエストを管理および送信する担当者）として識別されています。
+アドビの記録によると、お客様は&#x200B;**組織内の指定システム管理者で**（これらのアドビ製品のサポートリクエストを管理および送信する担当者）としてリストされます。
 
 システム管理者は、[!DNL Adobe Admin Console Support Portal] にアクセスし、次の操作をおこなうことができます。
 
-* 強化されたケース管理機能を利用する
-* [!DNL Adobe Customer Support] にチャットで連絡する
-* ポータルへのアクセス権をサポート管理者に付与する
+* 改善されたケース管理機能を見る
+* 便利な [!DNL Adobe Customer Support] とのチャットを開始する
+* サポートユーザーに対し、ポータルへのアクセスを許可する
 
 >[!NOTE]
 >
->**2019 年 11 月 4 日までに [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) にご入力のうえ送信**&#x200B;し、組織の Adobe Campaign 製品のシステム管理者としてこの役割に同意する（または別の連絡先情報を提供する）ことのご確認をお願いいたします。
+>組織のAdobe Campaign製品のシステム管理者として、次の役割を受け入れる（または別の連絡先情報を提供する）ことを確認してください： **の完了と送信 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) 2019 年 11 月 5 日**.
 >
->このフォームにご入力いただくことで、適切な資格情報が組織の指定されたシステム管理者に割り当てられます。
+>このフォームに入力することで、適切な資格情報が組織の指定システム管理者に割り当てられるようにします。
 
-[!DNL System Admin Confirmation Form] が受理されると、確認の電子メールが送信されます。
+次の通知が受理されると、確認の電子メールが送信されます： [!DNL System Admin Confirmation Form].
 
-本ご案内のメールに関するご質問は、customercare@adobe.com までお問い合わせください。
+この電子メールに関するご質問は、customercare@adobe.com までお問い合わせください。
 
- 
+よろしくお願いします。
