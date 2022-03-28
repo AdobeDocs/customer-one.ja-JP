@@ -1,24 +1,24 @@
 ---
-keywords: Experience Platformのサポート；プラットフォームのサポート；インテリジェントサービスのサポート；カスタマー ai のサポート。attribution ai のサポートrtcdp のサポート；サポートチケットを送信、カスタマーサポート
-title: Adobe Experience Cloud Customer One for Enterprise
+keywords: Experience Platform のサポートには以下のものが含まれます。プラットフォームのサポート、インテリジェントサービスのサポート、カスタマー AI のサポート。アトリビューション AI のサポート、RTCDP のサポート、サポートチケットの送信、カスタマーサポート
+title: 企業向け Adobe Experience Cloud Customer One
 description: アドビカスタマーサポートの新機能
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 22c446a683e21574c3db4b24879a1d072cdd5a3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '655'
+ht-degree: 75%
 
 ---
 
-# Adobeカスタマーサポートエクスペリエンス
+# アドビカスタマーサポートの機能
 
-## Admin Consoleサポートチケット
+## Admin Console サポートチケット
 
-サポートチケットを [Admin Console](https://adminconsole.adobe.com/). サポートチケットの送信方法については、 [サポートチケットの送信](#submit-ticket).
+サポートチケットを [Admin Console](https://adminconsole.adobe.com/) から送信できるようになりましたので、ご利用ください。サポートチケットの送信方法については、 [サポートチケットの送信](#submit-ticket) をご覧ください。
 
-アドビは、お客様がカスタマーサポートとどのようにやり取りするかをAdobe化に取り組んでいます。 その一環として、Adobe Admin Consoleを使用した単一のエントリーポイントに移行し、サポートを合理化することになりました。 運用が開始されると、組織は簡単にAdobeカスタマーサポートにアクセスできます。製品間で共通のシステムを使用して、サービス履歴をより詳細に把握できます。電話、Web、単一のポータル経由でのチャットを通じてヘルプをリクエストできます。
+アドビは、お客様がカスタマーサポートとどのようにやり取りするかをAdobe化に取り組んでいます。 その一環として、一元的なエントリポイントである Adobe Admin Console に移行し、サポートエクスペリエンスを合理化することとなりました。新ポータルへの移行が完了次第、アドビカスタマーサポートに簡単にアクセスできるようになります。製品をまたいで共通のシステムを利用することで、サービス履歴の明確な把握がより容易になり、電話、Web、チャットによるヘルプリクエストもこの単一のポータルから可能になって利便性が高まります。
 
 ## 新しいサポートプラットフォームに関するヘルプが必要な場合は、
 
@@ -33,39 +33,39 @@ ht-degree: 0%
 | [4 月 21 日午前 8 時 (PT)](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) | 木 | 4 月 21 日 | <https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98> |
 | [4 月 21 日午後 5 時 (PT)](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) | 木 | 4 月 21 日 | <https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446> |
 
-## Admin Consoleサポートチケットの送信方法 {#submit-ticket}
+## Admin Console サポートチケットの送信方法 {#submit-ticket}
 
-サポートチケットを [Admin Console](https://adminconsole.adobe.com/)の場合は、システム管理者から割り当てられたサポート管理者の役割が必要です。 この役割を割り当てることができるのは、組織内のシステム管理者だけです。 製品、製品プロファイル、その他の管理ロールは、サポート管理者ロールを割り当てられず、 **[!UICONTROL ケースを作成]** サポートチケットを送信するために使用するオプション。 詳しくは、 [エンタープライズおよびチーム向けカスタマーケア](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html) ドキュメント。
+サポートチケットを [Admin Console](https://adminconsole.adobe.com/) に送信するには、システム管理者から割り当てられたサポート管理者の役割が必要です。この役割を割り当てることができるのは、組織内のシステム管理者だけです。製品、製品プロファイル、その他の管理者の役割では、サポート管理者の役割を割り当てられず、サポートチケットを送信するために使用するオプションである **[!UICONTROL ケースを作成]** を閲覧することができません。詳しくは、[エンタープライズおよびチーム向けカスタマーケア](https://helpx.adobe.com/jp/enterprise/using/support-and-expert-services.html) ドキュメントをご参照ください。
 
-### サポート管理者ロールの割り当て
+### サポート管理者の役割を割り当てる
 
-サポート管理者の役割は、サポート関連の情報にアクセスできる非管理者の役割です。 サポート管理者は、問題レポートを表示、作成、管理できます。
+サポート管理者の役割は、サポート関連の情報にアクセスできる非管理者の役割です。サポート管理者は、問題レポートを表示、作成、管理することができます。
 
-サポート管理者の役割を割り当てるには、 [enterprise 管理者ロールの編集](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) 管理ロールに関するドキュメントの手順 この役割を割り当てられるのは、組織のシステム管理者のみです。 管理階層について詳しくは、 [管理者ロール](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) ドキュメント。
+サポート管理者の役割を割り当てるには、管理の役割に関するドキュメントの [管理者の役割の編集](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html#add-admin-teams) の指示事項に従います。この役割を割り当てられるのは、組織のシステム管理者のみであることにご注意ください。管理のヒエラルキーについての詳細は、 [管理者ロール](https://helpx.adobe.com/jp/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) ドキュメントをご参照ください。
 
-### Admin Console
+### Admin Console を使用してサポートチケットを作成
 
-を使用してチケットを作成するには [Admin Console](https://adminconsole.adobe.com/)を選択し、 **[!UICONTROL サポート]** 」タブが表示されます。 この [!UICONTROL サポートの概要] ページが表示されます。 次に、 **[!UICONTROL ケースを作成]** オプション。
+[Admin Console](https://adminconsole.adobe.com/) を使用してチケットを作成するには、ナビゲーションのトップにある **[!UICONTROL サポート]** タブを選択します。[!UICONTROL サポートの概要] ページが表示されます。次に、**[!UICONTROL ケースを作成]** オプションを選択します。
 
 >[!TIP]
 >
-> が **[!UICONTROL ケースを作成]** オプションまたは **[!UICONTROL サポート]** 「 」タブで、システム管理者に問い合わせて、サポート管理者の役割を割り当てる必要があります。
+> **[!UICONTROL ケースを作成]** オプションまたは **[!UICONTROL サポート]** タブが表示されない場合は、システム管理者に問い合わせて、サポート管理者の役割を割り当てる必要があります。
 
-![「Admin Consoleサポート」タブ](./assets/Support.png)
+![Admin Console サポートタブ](./assets/Support.png)
 
-問題のタイプを選択するためのダイアログが表示されます。 問題または質問に最も適した問題の種類を選択し、 **[!UICONTROL ケースを作成]** を右下に表示します。
+問題のタイプを選択するためのダイアログが表示されます。問題または質問に関して最も的確に説明する問題の種類を選択し、右下の **[!UICONTROL ケースを作成]** を選択します。
 
 ![問題を選択](./assets/select-case-type.png)
 
-この **[!UICONTROL ケースを作成]** ダイアログが表示されます。 製品、優先度、説明、問題の説明に役立つスクリーンショットを添付するなど、いくつかの情報を提供するよう求められます。 選択 **[!UICONTROL 次へ]** をクリックして続行します。
+**[!UICONTROL ケースを作成]** ダイアログが表示されます。製品、優先度、説明、問題の説明に役立つスクリーンショットを添付するなど、いくつかの情報を提供するよう求められます。**[!UICONTROL 次へ]** を選択して続行します。
 
 ![ケースを作成](./assets/create_case.png)
 
 >[!NOTE]
 >
-> 問題が発生した場合、または実稼動システムが非常に重大な中断を引き起こした場合は、電話番号がすぐに支援用に提供されます。
+> 当該の問題が生産システムの停止や極めて深刻な中断につながる場合は、直ちに支援を受けられるよう電話番号が提供されます。
 
-次のページでは、連絡先情報を入力し、カスタマーサポートから連絡を受けるのに最適なAdobe時間を提供できます。 完了したら、「 」を選択します。 **[!UICONTROL 送信]** の右下に表示され、チケットがAdobeカスタマーサポートに送信されます。
+次のページでは、連絡先情報と、アドビカスタマーサポートから連絡を受けるのに最適な時間を入力します。完了したら、右下に表示された **[!UICONTROL 送信]** を選択します。チケットがアドビカスタマーサポートに送信されます。
 
 ![チケットを送信](./assets/submit_case.png)
 
