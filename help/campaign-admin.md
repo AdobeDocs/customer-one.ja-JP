@@ -1,21 +1,21 @@
 ---
-title: '"[!DNL Campaign]  — 新しいサポート体験が提供されます»'
+title: 「[!DNL Campaign] - 新しいサポート体験の提供開始」
 seo-title: Adobe Campaign - New enterprise support experience is coming
 description: Adobe Campaign - 新しいカスタマーサポート体験が提供されます
 seo-description: Adobe Campaign - New enterprise support experience is coming
 source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Campaign] - 新しいカスタマーサポート体験が提供されます
 
-**2019 年 10 月 21 日**
+**2019年10月21日**
 
-アドビでは、Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。この新しいサポートは *2020 年 4 月／5 月に公開予定*&#x200B;です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。
+アドビでは、Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。この新しいサポートは *2020年4月／5月に公開予定*&#x200B;です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。
 
 公開が近づきましたら、また詳細をお知らせします。
 
@@ -33,7 +33,7 @@ ht-degree: 86%
 
 >[!NOTE]
 >
->組織のAdobe Campaign製品のシステム管理者として、次の役割を受け入れる（または別の連絡先情報を提供する）ことを確認してください： **の完了と送信 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) 2019 年 11 月 5 日**.
+>**[[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) にご入力のうえ、2019年11月4日までに**&#x200B;送信し、組織の Adobe Campaign 製品のシステム管理者としてこの役割に同意する（または別の連絡先情報を提供する）ことのご確認をお願いいたします。
 >
 >このフォームにご入力いただくことで、適切な資格情報が組織の指定されたシステム管理者に割り当てられます。
 
