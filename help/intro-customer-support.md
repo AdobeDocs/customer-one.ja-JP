@@ -1,13 +1,13 @@
 ---
-title: 新しいAdobeカスタマーサポートエクスペリエンスのお知らせ（前回のお知らせ）
+title: アドビの新しいカスタマーサポートエクスペリエンスのお知らせ(予告)
 description: 新しいサポートエクスペリエンスに関する初めてのお客様とのコミュニケーション
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '389'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
