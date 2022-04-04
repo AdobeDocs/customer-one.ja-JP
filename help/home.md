@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '664'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 76%
 
 アドビは、お客様がアドビカスタマーサポートとやり取りする方法の向上に取り組んでいます。その一環として、一元的なエントリポイントである Adobe Admin Console に移行し、サポートエクスペリエンスを合理化することとなりました。新ポータルへの移行が完了次第、アドビカスタマーサポートに簡単にアクセスできるようになります。製品をまたいで共通のシステムを利用することで、サービス履歴の明確な把握がより容易になり、電話、web、チャットによるヘルプリクエストもこの単一のポータルから可能になって利便性が高まります。
 
-## 新しいサポートプラットフォームに関するヘルプが必要な場合は、
+## 新しいサポートプラットフォームに関するヘルプが必要な場合
 
-お客様が新しいサポートプロセスに関して質問を投げかける一連のオンラインミーティングを提供しています。 結合する 1 つ以上の項目を選択：
+お客様が新しいサポートプロセスに関して質問ができる一連のオンラインミーティングを提供しています。結合する 1 つ以上の項目を選択：
 
 | 日時 | 登録リンク |
 |--- |--- |
-| 木曜日、4 月 7 日午前 8 時（太平洋標準時） | [イベントリンク](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
-| 木曜日、4 月 7 日午後 5 時 (PT) | [イベントリンク](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
+| 4 月 7 日（木）午前 8 時（太平洋標準時） | [イベントリンク](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
+| 4 月 7 日（木）午後 5 時 (太平洋標準時) | [イベントリンク](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
 | 4 月 20 日（水）午前 8 時（太平洋標準時） | [イベントリンク](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
-| 4 月 20 日（水）午後 5 時 (PT) | [イベントリンク](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
-| 4 月 21 日木曜日午前 8 時（太平洋標準時） | [イベントリンク](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
-| 4 月 21 日木曜日午後 5 時 (PT) | [イベントリンク](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
+| 4 月 20 日（水）午後 5 時 (太平洋標準時) | [イベントリンク](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
+| 4 月 21 日（木）午前 8 時（太平洋標準時） | [イベントリンク](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
+| 4 月 21 日（木）午後 5 時 (太平洋標準時) | [イベントリンク](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
 
 {style=&quot;table-layout:auto&quot;}
 
