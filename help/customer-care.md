@@ -1,10 +1,10 @@
 ---
 title: Adobeカスタマーケアに連絡
 description: チーム、企業、Adobeのお客様向けに、Experience Cloudカスタマーケアに連絡する方法について説明します。
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,16 +21,22 @@ Adobeカスタマーケアに問い合わせるには、 **サポート** 」タ
 
 ![チーム画像](assets/team.png)
 
-[詳細情報](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+-->
 
 ## エンタープライズアカウントの場合
 
 ![チーム画像](assets/enterprise.png)
 
-[詳細情報](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+-->
 
 ## Experience Cloud
 
 ![チーム画像](assets/ec.png)
 
-[詳細情報](https://www.adobe.com/go/ac_ec_not_supported_en)
+<!--
+[Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)
+-->
