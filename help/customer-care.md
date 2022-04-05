@@ -3,8 +3,8 @@ title: Adobeカスタマーケアに連絡
 description: チーム、企業、Adobeのお客様向けに、Experience Cloudカスタマーケアに連絡する方法について説明します。
 source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
