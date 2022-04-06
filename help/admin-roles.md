@@ -1,13 +1,13 @@
 ---
 title: 管理ロール
 description: Adobe Admin Consoleを使用して、組織は製品のアクセスと使用方法を詳細に管理できる柔軟な管理階層を定義できます。
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # 管理ロール
 
@@ -45,7 +45,7 @@ _管理者ロール階層_
 
 各管理者ロールの権限と権限の詳細なリストについては、 [権限](#enterprise-admins-permissions-matrix).
 
-## エンタープライズ管理者の追加
+## エンタープライズ管理者ロールの追加 {#add-enterprise-role}
 
 適用先：Adobe企業のお客様。
 
