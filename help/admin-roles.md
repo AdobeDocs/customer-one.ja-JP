@@ -3,9 +3,9 @@ title: 管理者の役割
 description: Adobe Admin Console を使用することで、組織は柔軟な管理階層を定義し、アドビ製品へのアクセスと使用をきめ細かく管理することができます。
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1640'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
