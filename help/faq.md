@@ -4,8 +4,8 @@ title: AdobeビジネスプラットフォームとAdmin Consoleに関する FAQ
 description: Adobe Workfrontに関するよくある質問
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '497'
+ht-degree: 1%
 
 ---
 
@@ -57,7 +57,7 @@ IMS は、Adobe Workfrontを含むIdentity Management Services の略語です�
 
 +++**AAC で使用できるトレーニングリソースは何ですか？**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/jp/enterprise/using/admin-console.html >
 
 +++
 

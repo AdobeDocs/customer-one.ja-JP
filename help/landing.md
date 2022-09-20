@@ -4,7 +4,7 @@ description: WorkfrontAdmin Consoleランディングページ
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 * Workfrontを追加する目的のAdobe Admin Consoleを特定します。
 
-   既に他のAdobe製品がある場合は、現在のAdobe Admin ConsoleにAdobe Workfrontを追加する意思を確認してください。 詳しくは、 [このリンク](https://helpx.adobe.com/enterprise/using/admin-console.html) を参照して、Adobe製品を管理する際のベストプラクティスを理解してください。
+   既に他のAdobe製品がある場合は、現在のAdobe Admin ConsoleにAdobe Workfrontを追加する意思を確認してください。 詳しくは、 [このリンク](https://helpx.adobe.com/jp/enterprise/using/admin-console.html) を参照して、Adobe製品を管理する際のベストプラクティスを理解してください。
 
 * 詳しくは、 [次のリンク](https://helpx.adobe.com/enterprise/using/deployment-planning.html) 導入に関するヘルプが必要です。
 * シングルサインオンを利用する場合は、新しいAdobe Admin Consoleを既存の SSO プロバイダーに接続する必要があります。
