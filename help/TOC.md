@@ -5,9 +5,9 @@ sub-product: customer one
 audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] ヘルプ'
 source-git-commit: 89be38209b05b9b836d4487b31cb2e761b8aaf8d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '20'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 80%
 + 参照ドキュメント {#ref-docs}
    + [事前発表](intro-customer-support.md)
    + [Parkour Now のお知らせ](parkour-now.md)
-+ Workfront Documents {#workfront}
++ Workfront ドキュメント {#workfront}
    + [概要](overview.md)
    + [ランディング](landing.md)
-   + [FAQ](faq.md)
+   + [よくある質問](faq.md)
