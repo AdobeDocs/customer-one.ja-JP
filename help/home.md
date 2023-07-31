@@ -5,9 +5,9 @@ description: アドビカスタマーサポートの新機能
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
+source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '732'
 ht-degree: 78%
 
 ---
@@ -48,8 +48,8 @@ ht-degree: 78%
 
 1. 次の 2 つのオプションのいずれかを選択します。
 
-   * オプション 1: **[!UICONTROL 基本的なサポート管理者]**. すべてのソリューション (Marketoを除く ) に対するユーザーサポートを提供する場合は、このオプションを選択します。
-   * オプション 2: **[!UICONTROL 製品サポート管理者]**:Marketoのサポートにこのオプションを選択します。 ユーザーサポートへのアクセスを許可するMarketoインスタンスを選択します。
+   * オプション 1: **[!UICONTROL 基本的なサポート管理者]**. すべてのソリューション (Marketo Engageを除く ) に対するユーザーサポートを提供する場合は、このオプションを選択します。
+   * オプション 2: **[!UICONTROL 製品サポート管理者]**:Marketo Engageサポートのために、このオプションを選択します。 ユーザーサポートにアクセスを許可するMarketo Engageインスタンスを選択します。
 
    ![管理権限の編集Marketo](assets/edit-admin-rights-advanced.png)
 
