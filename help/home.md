@@ -5,10 +5,10 @@ description: アドビカスタマーサポートの新機能
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
-workflow-type: ht
-source-wordcount: '487'
-ht-degree: 100%
+source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+workflow-type: tm+mt
+source-wordcount: '687'
+ht-degree: 79%
 
 ---
 
@@ -28,7 +28,38 @@ ht-degree: 100%
 
 サポート管理者の役割は、サポート関連の情報にアクセスできる非管理者の役割です。サポート管理者は、問題レポートを表示、作成、管理することができます。
 
-サポート管理者の役割を割り当てるには、管理の役割に関するドキュメントの[管理者の役割の編集](admin-roles.md#add-enterprise-role)の指示事項に従います。この役割を割り当てられるのは、組織のシステム管理者のみであることにご注意ください。管理のヒエラルキーについての詳細は、[管理者役割](admin-roles.md)ドキュメントをご参照ください。
+管理者を追加または招待するには、
+
+1. Admin Consoleで、**[!UICONTROL ユーザー]**／**[!UICONTROL 管理者]**&#x200B;を選択します。
+1. **[!UICONTROL 管理者を追加]**&#x200B;をクリックします。
+1. 名前または電子メールアドレスを入力します。
+
+   既存のユーザーを検索するか、有効な電子メールアドレスを指定して画面に情報を入力することで、新しいユーザーを追加できます。
+
+   ![管理者を追加](assets/admin-console-add-admin.png)
+
+1. **[!UICONTROL 次へ]**&#x200B;をクリックします。管理者の役割リストが表示されます。
+
+サポート管理者の役割をユーザーに割り当てる（ユーザーがサポートに連絡できるようにする）には、次の手順を実行します。
+
+1. を選択します。 **[!UICONTROL サポート管理者]** オプション。
+
+   ![管理権限の編集](assets/edit-admin-rights.png)
+
+1. 次の 2 つのオプションのいずれかを選択します。
+
+   * オプション 1: **[!UICONTROL 基本的なサポート管理者]**. すべてのソリューション (Marketoを除く ) に対するユーザーサポートを提供する場合は、このオプションを選択します。
+   * オプション 2: **[!UICONTROL 製品サポート管理者]**:Marketoのサポートにこのオプションを選択します。 ユーザーサポートへのアクセスを許可するMarketoインスタンスを選択します。
+
+   ![管理権限の編集Marketo](assets/edit-admin-rights-advanced.png)
+
+1. 選択が完了したら、 **[!UICONTROL 保存]**.
+
+ユーザーは `message@adobe.com` から、新しい管理権限に関する招待メールを受け取ります。
+
+ユーザーが組織に参加するには、電子メールにある **開始する**&#x200B;をクリックする必要があります。新しい管理者が、招待メールの **開始する**&#x200B;のリンクを使用しない場合、Admin Console にサインインできません。
+
+ログインプロセスの一環として、ユーザープロファイルがまだない場合は、Adobe プロファイルを設定するように求められる場合があります。ユーザーが E メールアドレスに複数のプロファイルを関連付けている場合、ユーザーは **チームに参加** （プロンプトが表示された場合）を選択し、新しい組織に関連付けられたプロファイルを選択します。
 
 ### Admin Console を使用してサポートチケットを作成
 
