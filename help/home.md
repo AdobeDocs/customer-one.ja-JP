@@ -5,10 +5,10 @@ description: アドビカスタマーサポートの新機能
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 79%
+source-wordcount: '729'
+ht-degree: 78%
 
 ---
 
@@ -60,6 +60,10 @@ ht-degree: 79%
 ユーザーが組織に参加するには、電子メールにある **開始する**&#x200B;をクリックする必要があります。新しい管理者が、招待メールの **開始する**&#x200B;のリンクを使用しない場合、Admin Console にサインインできません。
 
 ログインプロセスの一環として、ユーザープロファイルがまだない場合は、Adobe プロファイルを設定するように求められる場合があります。ユーザーが E メールアドレスに複数のプロファイルを関連付けている場合、ユーザーは **チームに参加** （プロンプトが表示された場合）を選択し、新しい組織に関連付けられたプロファイルを選択します。
+
+![管理者権限の確認](assets/admin-rights-confirmation.png)
+
+詳しくは、 [enterprise 管理者ロールの編集](admin-roles.md#add-enterprise-role) 管理ロールに関するドキュメントの手順。 この役割を割り当てられるのは、組織のシステム管理者のみであることにご注意ください。管理のヒエラルキーについての詳細は、[管理者役割](admin-roles.md)ドキュメントをご参照ください。
 
 ### Admin Console を使用してサポートチケットを作成
 
