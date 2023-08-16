@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -48,8 +48,8 @@ ht-degree: 91%
 
 1. 次の 2 つのオプションのいずれかを選択します。
 
-   * オプション 1：**[!UICONTROL 基本的なサポート管理者]**。すべてのソリューション (Marketo Engageを除く ) に対するユーザーサポートを提供する場合は、このオプションを選択します。
-   * オプション 2: **[!UICONTROL 製品サポート管理者]**:Marketo Engageサポートのために、このオプションを選択します。 ユーザーサポートにアクセスを許可するMarketo Engageインスタンスを選択します。
+   * オプション 1：**[!UICONTROL 基本的なサポート管理者]**。すべてのソリューション（Marketo Engage を除く）に対するユーザーサポートを提供する場合は、このオプションを選択します。
+   * オプション 2：**[!UICONTROL 製品サポート管理者]**：Marketo Engage のサポートには、このオプションを選択します。ユーザーサポートへのアクセスを許可する Marketo Engage インスタンスを選択します。
 
    ![Marketo の管理者権限を編集](assets/edit-admin-rights-advanced.png)
 
@@ -63,7 +63,7 @@ ht-degree: 91%
 
 ![管理者権限の確認](assets/admin-rights-confirmation.png)
 
-詳しくは、 [enterprise 管理者ロールの編集](admin-roles.md#add-enterprise-role) 管理ロールに関するドキュメントの手順。 この役割を割り当てられるのは、組織のシステム管理者のみであることにご注意ください。管理のヒエラルキーについての詳細は、[管理者役割](admin-roles.md)ドキュメントをご参照ください。
+詳しくは、管理者役割に関するドキュメントの [エンタープライズ管理者役割の編集](admin-roles.md#add-enterprise-role) 手順を確認してください。この役割を割り当てられるのは、組織のシステム管理者のみであることにご注意ください。管理のヒエラルキーについての詳細は、[管理者役割](admin-roles.md)ドキュメントをご参照ください。
 
 ### Admin Console を使用してサポートチケットを作成
 
