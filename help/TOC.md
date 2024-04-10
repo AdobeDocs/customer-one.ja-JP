@@ -7,9 +7,9 @@ sub-product: customer one
 audience: end-user
 user-guide-title: "[!DNL Customer One for Enterprise] ヘルプ"
 source-git-commit: c4264713b8ce26b78ac04c6ad2cd5f33512c6702
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 # [!DNL Customer One for Enterprise] {#using}
 
 + [概要](home.md)
-+ [電話番号の更新をサポート](phone-numbers.md)
++ [サポートの電話番号の更新](phone-numbers.md)
 + [管理者の役割](admin-roles.md)
 + [Adobe カスタマーケアに連絡](customer-care.md)
 + 参照ドキュメント {#ref-docs}
