@@ -3,7 +3,7 @@ keywords: Workfront サポート;サポートチケットを送信;カスタマ�
 title: Adobe Workfront サポートの概要
 description: Adobe Workfront は Adobe Admin Console Platform に参加します。
 exl-id: 00740005-270b-4ff7-afcb-4d5fa161cc32
-source-git-commit: ac7d548a774a1eecbdcd0c87ba3f9b33c3bbda0e
+source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%
