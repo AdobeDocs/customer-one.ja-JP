@@ -4,7 +4,7 @@ title: Adobe Business Platform と Admin Console に関する FAQ
 description: Adobe Workfront に関するよくある質問
 exl-id: a0e9f153-bb2d-4077-a957-bf6bfcb44dfd
 source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
 ht-degree: 100%
 
