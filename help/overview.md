@@ -25,7 +25,7 @@ Adobe ID と Admin Console の詳細なレビューについては、こちら�
 
 <!--
 New URL for July 27:
-https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
+https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html?lang=ja
 -->
 
 さらに、参照用の FAQ も[こちら](faq.md)から利用できます。
