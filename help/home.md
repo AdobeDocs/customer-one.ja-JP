@@ -5,7 +5,7 @@ description: アドビカスタマーサポートの新機能
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
+source-git-commit: fda1336b2f33056351984c2ae3dc2059c80ec61d
 workflow-type: ht
 source-wordcount: '860'
 ht-degree: 100%
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## Experience League サポートチケット
 
-サポートチケットが [Experience League](https://experienceleague.adobe.com/home?lang=ja#support) 経由で送信できるようになりました。サポートチケットの送信方法については、[サポートチケットの送信](#submit-ticket)をご覧ください。
+サポートチケットが [Experience League](https://experienceleague.adobe.com/home?lang=ja#support) 経由で送信できるようになりました。サポートチケットの送信方法については、[サポートチケットの送信](#create-a-support-ticket-with-experience-league)をご覧ください。
 
 アドビは、お客様がアドビカスタマーサポートとやり取りする方法の向上に取り組んでいます。その一環として、一元的なエントリポイントである Experience League に移行し、サポートエクスペリエンスを合理化することとなりました。新ポータルへの移行が完了次第、アドビカスタマーサポートに簡単にアクセスできるようになります。製品をまたいで共通のシステムを利用することで、サービス履歴の明確な把握がより容易になり、電話、web、チャットによるヘルプリクエストもこの単一のポータルから可能になって利便性が高まります。
 
