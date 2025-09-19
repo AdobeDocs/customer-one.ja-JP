@@ -85,7 +85,7 @@ Commerce を使用している場合、サポートケースの操作へのア�
    * ビジネスへの影響
    * お客様のタイムゾーン（米州、EMEA、APAC）
 
-   ケースの優先度とビジネスへの影響がサポートの応答時間にどのように影響するかについて詳しくは、成功計画リソースに関するドキュメントの [ サポートの初期応答時間のターゲット ](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) を参照してください。
+   ケースの優先度とビジネスへの影響がサポートの応答時間にどのように影響するかについて詳しくは、成功計画リソースに関するドキュメントの [ サポートの初期応答時間のターゲット ](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) を参照してください。
 
 ![Experience League チケットの優先度](./assets/experience-league-ticket-priority.png)
 
