@@ -5,10 +5,10 @@ description: アドビカスタマーサポートの新機能
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: fda1336b2f33056351984c2ae3dc2059c80ec61d
+source-git-commit: 16b947e89ba4fea10e06e275df430d1205937b8c
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 100%
+source-wordcount: '888'
+ht-degree: 96%
 
 ---
 
@@ -84,6 +84,8 @@ Commerce を使用している場合、サポートケースの操作へのア�
    * ケースの優先度（低、中、高、重大）
    * ビジネスへの影響
    * お客様のタイムゾーン（米州、EMEA、APAC）
+
+   ケースの優先度とビジネスへの影響がサポートの応答時間にどのように影響するかについて詳しくは、成功計画リソースに関するドキュメントの [ サポートの初期応答時間のターゲット ](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) を参照してください。
 
 ![Experience League チケットの優先度](./assets/experience-league-ticket-priority.png)
 
