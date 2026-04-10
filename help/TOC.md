@@ -21,7 +21,7 @@ ht-degree: 60%
 + [管理者の役割](admin-roles.md)
 + 参照文書 {#ref-docs}
    + {hide-from-toc}[お知らせ](intro-customer-support.md)
-   + {hide-from-toc}[ パルクールのお知らせ](parkour-now.md)
+   + {hide-from-toc}[&#x200B; パルクールのお知らせ](parkour-now.md)
 + Workfront Documents {#workfront}
    + [概要](overview.md)
    + [ランディング](landing.md)
