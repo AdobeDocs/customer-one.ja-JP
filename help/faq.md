@@ -3,9 +3,11 @@ keywords: FAQ;よくある質問
 title: Adobe Business Platform と Admin Console に関する FAQ
 description: Adobe Workfront に関するよくある質問
 exl-id: a0e9f153-bb2d-4077-a957-bf6bfcb44dfd
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
-source-wordcount: '496'
+TQID: https://experienceleague.adobe.com/6lxvN0hmXbETV9v2VXDv3R7zxrua37YlFb9hSWfG5Gg
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+workflow-type: tm+mt
+source-wordcount: 507
 ht-degree: 100%
 
 ---
@@ -34,7 +36,7 @@ Adobe Business Platform に移行することで、より安全で直感的な�
 
 IMS は Identity Management サービスの略語です。Adobe Workfront では、次のことを指します。
 
-組織とは、管理者がグループとユーザーを設定し、Experience Cloud でのシングルサインオンを制御できる単位です。組織は、あらゆる Experience Cloud 製品やアプリケーションをまたいだログイン会社のように機能します。ほとんどの場合、組織は会社名です。ただし、1 つの会社が多数の組織を持つことができます。
+組織とは、管理者がグループとユーザーを設定し、Experience Cloud でのシングルサインオンを制御できる単位です。 組織は、あらゆる Experience Cloud 製品やアプリケーションをまたいだログイン会社のように機能します。 ほとんどの場合、組織は会社名です。 ただし、1 つの会社が多数の組織を持つことができます。
 
 +++
 
@@ -70,7 +72,7 @@ Adobe Workfront のサポートチームがリアルタイムの支援と指導�
 
 +++**顧客が製品スイートに他の製品を持っている場合、AAC に移行すると管理コンソールは統合されますか？**
 
-はい。管理コンソールはアドビ内で同じ機能で、管理者は 1 つのプラットフォームで Workfront と他のほとんどすべてのアドビ製品も使用できます。
+はい。 管理コンソールはアドビ内で同じ機能で、管理者は 1 つのプラットフォームで Workfront と他のほとんどすべてのアドビ製品も使用できます。
 
 +++
 
@@ -94,6 +96,6 @@ AAC に移行する際に、追加費用はかかりません。
 
 +++**AAC に移行しない理由はありますか？**
 
-AAC は、Workfront の将来のエクスペリエンスで最適なアップデートと拡張機能を提供し、お客様にとって素晴らしい一歩となります。従来のデモコンソールは閉鎖されるので、2023年末までにすべてのお客様が AAC に移行する必要があります。
+AAC は、Workfront の将来のエクスペリエンスで最適なアップデートと拡張機能を提供し、お客様にとって素晴らしい一歩となります。 従来のデモコンソールは閉鎖されるので、2023年末までにすべてのお客様が AAC に移行する必要があります。
 
 +++
