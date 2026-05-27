@@ -1,11 +1,11 @@
 ---
-title: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - デプロイ担当者 [!DNL Campaign]
-description: 新しいアドビカスタマーサポートエクスペリエンスの提供開始 - デプロイ担当者 [!DNL Campaign]
+title: '新しいアドビカスタマーサポートエクスペリエンスの提供開始 - デプロイ担当者 [!DNL Campaign] '
+description: '新しいアドビカスタマーサポートエクスペリエンスの提供開始 - デプロイ担当者 [!DNL Campaign] '
 seo-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
 seo-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '316'
 ht-degree: 100%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 100%
 
 **2019 年 10 月 21 日**
 
-アドビは、Adobe Experience Manager および Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。この新しいサポートは 2020 年 4 月／5 月に公開予定です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。公開が近づきましたら、また詳細をお知らせします。
+アドビは、Adobe Experience Manager および Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。 この新しいサポートは 2020 年 4 月／5 月に公開予定です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。 公開が近づきましたら、また詳細をお知らせします。
 
 その前に、お手数ですが、組織の代表としてシステム管理者になられる方の連絡先情報をお知らせください。
 
 ## お客様へのお願い
 
-お客様は組織の Adobe Experience Manager/Adobe Campaign 製品の初回購入プロセスで、主要担当者として特定されました。その結果、お客様は&#x200B;**システム管理者**（これらのアドビ製品のサポートリクエストを管理および送信する担当者）として識別されています。
+お客様は組織の Adobe Experience Manager/Adobe Campaign 製品の初回購入プロセスで、主要担当者として特定されました。 その結果、お客様は&#x200B;**システム管理者**（これらのアドビ製品のサポートリクエストを管理および送信する担当者）として識別されています。
 
 システム管理者は、[!DNL Adobe Admin Console Support Portal] にアクセスし、次の操作をおこなうことができます。
 

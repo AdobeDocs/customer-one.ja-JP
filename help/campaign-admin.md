@@ -1,12 +1,12 @@
 ---
-title: 「[!DNL Campaign] - 新しいサポート体験の提供開始」
+title: '[!DNL Campaign] – 新しいサポートエクスペリエンスが提供されます'
 seo-title: Adobe Campaign - New enterprise support experience is coming
 description: Adobe Campaign - 新しいカスタマーサポート体験が提供されます
 seo-description: Adobe Campaign - New enterprise support experience is coming
 source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 100%
+source-wordcount: '255'
+ht-degree: 98%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 **2019年10月21日**
 
-アドビでは、Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。この新しいサポートは *2020年4月／5月に公開予定*&#x200B;です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。
+アドビでは、Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。 この新しいサポートは *2020年4月／5月に公開予定*&#x200B;です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。
 
 公開が近づきましたら、また詳細をお知らせします。
 
