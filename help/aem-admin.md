@@ -5,7 +5,7 @@ description: Adobe Experience Manager - 新しいカスタマーサポート体�
 seo-description: Adobe Experience Manager - New Support Experience Coming
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '269'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 **2019 年 10 月 21 日**
 
-アドビは、Adobe Experience Manager および Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。この新しいサポートは 2020 年 4 月／5 月に公開予定です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。
+アドビは、Adobe Experience Manager および Adobe Campaign ユーザーの皆様に対するサポートサービス向上のため、新しいサポート体験導入の準備を進めております。 この新しいサポートは 2020 年 4 月／5 月に公開予定です。共通の入口ポータルから、[!DNL Adobe Customer Support] にアクセスしたり、詳細な組織のサービス履歴情報を確認していただけるようになります。
 
 公開が近づきましたら、また詳細をお知らせします。
 

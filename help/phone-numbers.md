@@ -1,6 +1,6 @@
 ---
 title: 希望するサポートの電話番号を指定します
-description: アドビサポートの電話番号を更新します。希望するサポートの電話番号を指定します。
+description: アドビサポートの電話番号を更新します。 希望するサポートの電話番号を指定します。
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
 workflow-type: tm+mt
