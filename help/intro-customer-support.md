@@ -4,12 +4,11 @@ description: 新しいサポートエクスペリエンスに関する初めて�
 hide: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
-source-wordcount: 391
-ht-degree: 85%
+source-wordcount: 409
+ht-degree: 86%
 
 ---
 
@@ -19,8 +18,7 @@ ht-degree: 85%
 
 ## 詳細
 
-アドビでは、2月と 3月に、新ポータルで新しいサポートシステム管理者とサポートユーザーを設定することを予定しています。 お客様が現在、AdobeのAdmin Consoleでサポートシステム管理者として働いていることを当社の記録が示している場合、または、お客様の組織内にAdobe CampaignやAdobe Experience ManagerをデプロイするためのAdobeのお客様のお問い合わせとして、お客様の名前が購入契約に記載されている場合、お客様はサポートシステム管理者として設定されます。
-サポートシステム管理者は、Admin Console でスーパーユーザーとして操作できます。新しいサポートユーザーが作成されるたびに、システムから自動で電子メールが送信されます。 さらに、サポートシステム管理者は、次のことを実行できます。
+アドビでは、2月と 3月に、新ポータルで新しいサポートシステム管理者とサポートユーザーを設定することを予定しています。 お客様が現在、AdobeのAdmin Consoleでサポートシステム管理者として働いていることを当社の記録が示している場合、または、お客様の組織内にAdobe CampaignやAdobe Experience ManagerをデプロイするためのAdobeのお客様のお問い合わせとして、お客様の名前が購入契約に記載されている場合、お客様はサポートシステム管理者として設定されます。サポートシステム管理者は、Admin Console でスーパーユーザーとして操作できます。新しいサポートユーザーが作成されるたびに、システムから自動で電子メールが送信されます。 さらに、サポートシステム管理者は、次のことを実行できます。
 
 * ポータルでのサポートユーザーの作成と削除、およびアクセスロールの管理
 * サポートケース管理ツールの活用（このツールにより、アドビカスタマーサポートとのサポートケースのやりとりが容易になります）
@@ -50,3 +48,4 @@ ht-degree: 85%
 * お客様：新システムの使用を開始する
 
 本ご案内のメールに関するご質問は、[customercare@adobe.com](mailto:customercare@adobe.com) までお問い合わせください。
+

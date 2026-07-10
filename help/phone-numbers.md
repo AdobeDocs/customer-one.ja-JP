@@ -2,7 +2,7 @@
 title: 希望するサポートの電話番号を指定します
 description: アドビサポートの電話番号を更新します。 希望するサポートの電話番号を指定します。
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
-source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
@@ -32,3 +32,4 @@ ht-degree: 100%
 ![電話番号を追加](assets/enter-phone-number.png)
 
 ![結果](assets/result.png)
+
