@@ -5,7 +5,7 @@ description: アドビカスタマーサポートの新機能
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: '1006'
 ht-degree: 100%
@@ -78,9 +78,13 @@ Commerce を使用している場合、サポートケースの操作へのア�
 サポートケースを送信するプロセスは、Experience League サポートプラットフォームに直接統合されるようになりました。 これは、資格のある顧客に対してより多くのパーソナライゼーションと使いやすさを提供するように最近再設計されたセルフサービスポータルです。
 
 1. [Experience League](https://experienceleague.adobe.com/home?lang=ja#support) を使用してチケットを作成するには、ナビゲーションのトップにある「**[!UICONTROL サポート]**」タブを選択します。
+
    ![Experience League「サポート」タブ](./assets/experience-league-support-tab.png)
+
 1. サポートホームページから、開いているサポートケースに簡単に移動したり、新しいケースをログに記録したり、上位のサポート記事を表示したり、追加の学習ソースにアクセスしたりできます。
+
    ![Experience League サポートリソース](./assets/experience-league-support-resources.png)
+
 1. ケースを送信するには、「**[!UICONTROL サポートチケットを開く]**」を選択します。 または、サイドバーメニューの「**[!UICONTROL チケットを開く]**」オプションを選択します。
 
 
@@ -112,16 +116,11 @@ Commerce を使用している場合、サポートケースの操作へのア�
 
    ケースの優先度とビジネスへの影響がサポートの応答時間にどのように影響するかについて詳しくは、成功計画リソースに関するドキュメントの[サポートの目標初期応答時間](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)を参照してください。
 
-![Experience League チケットの優先度](./assets/experience-league-ticket-priority.png)
+   ![Experience League チケットの優先度](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > 「**[!UICONTROL ケースを作成]**」オプションまたは「**[!UICONTROL サポート]**」タブが表示されない場合は、システム管理者に問い合わせて、サポート管理者の役割を割り当てる必要があります。
-
-
-
-
-
 
 
 
