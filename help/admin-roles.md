@@ -5,22 +5,27 @@ exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
 subfeature_v2:
   - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
   - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+    internal-label: Organizations, Organizations (AEC)
   - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
+    internal-label: Onboarding
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+    internal-label: User management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: Administration
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 1647
+source-wordcount: '1647'
 ht-degree: 97%
-
 ---
-
 # 管理者の役割
 
 Adobe Admin Console を使用することで、組織は柔軟な管理階層を定義し、アドビ製品へのアクセスと使用をきめ細かく管理することができます。 企業オンボーディングプロセス中にプロビジョニングされた 1 人以上のシステム管理者が階層の最上部に存在します。 これらのシステム管理者は、全体的な制御を維持しながら、他の管理者に責任を委任することができます。
@@ -39,7 +44,7 @@ Adobe Admin Console を使用することで、組織は柔軟な管理階層を
 
 >[!NOTE]
 >
->管理階層は、チームの顧客には適用されません。 チームの顧客は、**システム管理者**&#x200B;の役割を持ちます。 契約所有者 (_以前は&#x200B;**プライマリ管理者**&#x200B;_呼ばれた) は、契約詳細と請求履歴へのアクセス権を持つシステム管理者です。 現在の契約所有者の場合は、既存のシステム管理者 (_&#x200B;以前は **第二管理者**&#x200B;_&#x200B;と呼ばれた) を契約所有者として指名することができます。
+>管理階層は、チームの顧客には適用されません。 チームの顧客は、**システム管理者**&#x200B;の役割を持ちます。 契約所有者 (_以前は&#x200B;**プライマリ管理者**_呼ばれた) は、契約詳細と請求履歴へのアクセス権を持つシステム管理者です。 現在の契約所有者の場合は、既存のシステム管理者 (_&#x200B;以前は **第二管理者**_&#x200B;と呼ばれた) を契約所有者として指名することができます。
 
 ![管理画像](assets/storage_admin.png)
 
@@ -121,7 +126,8 @@ _管理者の役割の階層_
 
 ![チーム管理者画像](assets/teams-admin.png)
 
-チーム組織内のすべてのユーザーは Business ID ユーザーなので、新しい管理権限に関する招待メールを `message@adobe.com` から受け取ります。ユーザーが組織に参加するには、電子メールの「開始する」をクリックする必要があります。
+チーム組織内のすべてのユーザーは Business ID ユーザーなので、新しい管理権限に関する招待メールを `message@adobe.com` から受け取ります。
+ユーザーが組織に参加するには、電子メールの「開始する」をクリックする必要があります。
 
 ログインプロセスの一環として、ユーザープロファイルがまだない場合は、Adobe プロファイルを設定するように求められる場合があります。 ユーザーがメールアドレスに複数のプロファイルを関連付けている場合、ユーザーは「チームに参加」（要求された場合）を選択し、新しい組織に関連付けられたプロファイルを選択する必要があります。
 
